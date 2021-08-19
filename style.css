@@ -1,0 +1,93 @@
+.texto{
+    color: black;
+}
+
+nav{
+    background-color: wheat;
+    opacity: 0.9;
+}
+
+footer{
+    background: wheat;
+    padding: 40px;
+}
+
+svg{
+    width: 30px;
+    text-align: center;
+    padding: 0px;
+    margin: 2px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(137, 196, 235);
+    padding-top: 100px;
+}
+
+#espacio{
+    margin: auto;    
+    padding: 30px;
+    
+}
+
+#cinta{
+    align-items: center;
+    background-color: wheat;
+    background-image: repeating-linear-gradient(45deg, transparent, transparent 10px, rgb(250, 180, 154) 25px, rgb(250, 180, 154) 35px);
+}
+
+#birthday{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: wheat;
+    position: relative;
+    margin-top: -5px;
+    box-shadow: 0 0 10px black;
+    padding: 0px;
+}
+
+#birthday img{
+    width: 100%;
+    position: relative;
+    margin-top: -40px;
+}
+ 
+.text-shadow{
+    text-shadow: black;
+}
+
+.container-body{
+    align-items: center;
+    text-align: center;
+    
+}
+
+.container-footer{
+    align-items: center;
+    text-align: center;
+    
+}
+
+.card-border{
+    border: solid 10px white;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: all ease-out 0.2s;
+}
+
+.card-border:hover{
+    transform: scale(1.05);
+}
+
+#espacio{
+    border: black;
+    border-radius: 50px;
+}
+
+.creadors{
+    color: black;
+    background-color: black;
+}
